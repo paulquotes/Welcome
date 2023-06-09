@@ -5,7 +5,7 @@
 #Here's the link to my Music pages!!
 **https://linktr.ee/paulomusic
 
-# My Specialties (what I use :) )
+# My Specialties
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,vscode,pr,ps,ae,blender,discord,instagram" />
